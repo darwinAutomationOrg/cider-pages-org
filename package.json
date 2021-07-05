@@ -1,0 +1,23 @@
+{
+  "name": "ci-cd-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EhabSilawi/ci-cd-exercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EhabSilawi/ci-cd-exercise/issues"
+  },
+  "homepage": "https://github.com/EhabSilawi/ci-cd-exercise#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
